@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./profile.png" alt="Wade Nelson" width="220" />
 </p>
+
 # Hi, I'm Wade Nelson
 
 I'm building practical full-stack development skills with a focus on JavaScript, backend APIs, testing, and clean project delivery.
