@@ -29,6 +29,7 @@ I pinned the most representative projects for front-end, back-end, cloud, and to
 1. mission-4 — Full-stack "Turners" insurance AI app (React + Vite frontend, Express AI backend)
    - Repo: https://github.com/wadennelson-create/mission-4
    - Why: End-to-end demo showing frontend, API, and optional Gemini integration.
+   - CI: ![mission-4 CI](https://github.com/wadennelson-create/mission-4/actions/workflows/nodejs.yml/badge.svg)
    - How to run (quick):
      ```bash
      # from repo root
@@ -39,6 +40,7 @@ I pinned the most representative projects for front-end, back-end, cloud, and to
 2. wades-backend — Backend / APIs for coursework and demos
    - Repo: https://github.com/wadennelson-create/wades-backend
    - Why: Shows server-side skills, routing, and tests.
+   - CI: ![wades-backend CI](https://github.com/wadennelson-create/wades-backend/actions/workflows/nodejs.yml/badge.svg)
    - How to run (quick):
      ```bash
      cd wades-backend
@@ -50,6 +52,7 @@ I pinned the most representative projects for front-end, back-end, cloud, and to
 3. weather-app-demo-azure-static-webapps — Cloud front-end demo
    - Repo: https://github.com/wadennelson-create/weather-app-demo-azure-static-webapps
    - Why: Demonstrates deploying a frontend on Azure Static Web Apps.
+   - CI: ![weather-app CI](https://github.com/wadennelson-create/weather-app-demo-azure-static-webapps/actions/workflows/nodejs.yml/badge.svg)
    - How to run (quick):
      ```bash
      # open index.html in the repo or serve with a static server
@@ -59,6 +62,7 @@ I pinned the most representative projects for front-end, back-end, cloud, and to
 4. simple-react-client-azure-mysql — Simple full-stack starter (React + Azure + MySQL)
    - Repo: https://github.com/wadennelson-create/simple-react-client-azure-mysql
    - Why: Shows DB integration and cloud-ready client.
+   - CI: ![simple-react CI](https://github.com/wadennelson-create/simple-react-client-azure-mysql/actions/workflows/nodejs.yml/badge.svg)
    - How to run (quick):
      ```bash
      # frontend (Vite)
@@ -69,11 +73,13 @@ I pinned the most representative projects for front-end, back-end, cloud, and to
 5. mission-ready — Coursework & backend-focused exercises
    - Repo: https://github.com/wadennelson-create/mission-ready
    - Why: Demonstrates mission/course work and backend patterns.
+   - CI: ![mission-ready CI](https://github.com/wadennelson-create/mission-ready/actions/workflows/nodejs.yml/badge.svg)
    - How to run: See the repository README for project-specific run instructions.
 
 6. vite-plugin-react-swc — Archived tooling reference
    - Repo: https://github.com/wadennelson-create/vite-plugin-react-swc
    - Why: Tooling / plugin reference showing knowledge of build tooling (archived upstream link provided in README).
+   - CI: ![vite-plugin CI](https://github.com/wadennelson-create/vite-plugin-react-swc/actions/workflows/nodejs.yml/badge.svg)
 
 
 ---
