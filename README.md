@@ -14,45 +14,83 @@ I'm a software developer and AI full‑stack student currently studying for a Le
 
 ---
 
-## Featured projects (all public repos)
-
-- [wadennelson-create](https://github.com/wadennelson-create/wadennelson-create) — Personal profile README and hub for featured projects and links.
-- [mission-4](https://github.com/wadennelson-create/mission-4) — Full-stack "Turners" insurance app: React + Vite frontend and Express AI backend (Gemini integration support).
-  - Backend docs: https://github.com/wadennelson-create/mission-4/tree/main/backend
-  - Frontend docs: https://github.com/wadennelson-create/mission-4/tree/main/front%20end
-- [wades-backend](https://github.com/wadennelson-create/wades-backend) — MissionX-style backend / APIs for coursework and demo services.
-- [weather-app-demo-azure-static-webapps](https://github.com/wadennelson-create/weather-app-demo-azure-static-webapps) — Cloud-hosted weather demo (Azure Static Web Apps) — HTML/CSS/JS front-end demo.
-- [simple-react-client-azure-mysql](https://github.com/wadennelson-create/simple-react-client-azure-mysql) — Simple React + Azure + MySQL integration starter (full‑stack demo).
-- [hello-azure-react-simple](https://github.com/wadennelson-create/hello-azure-react-simple) — Minimal React + Vite starter for Azure-hosted front-ends.
-- [mission-ready](https://github.com/wadennelson-create/mission-ready) — Coursework repository for building mission-ready apps (backend focus).
-- [mission1](https://github.com/wadennelson-create/mission1) — Early mission coursework and React/Vite examples (includes "turners cars" demo folders).
-- [turners](https://github.com/wadennelson-create/turners) — Project/repo connected to the Turners insurance exercises.
-- [vite-plugin-react-swc](https://github.com/wadennelson-create/vite-plugin-react-swc) — Archived reference for a Vite React SWC plugin (tooling example / archived).
-- [wade](https://github.com/wadennelson-create/wade) — Small HTML/CSS/JS demo and test pages.
-- [wade.mission-3](https://github.com/wadennelson-create/wade.mission-3) — Mission 3 coursework materials and exercises.
-- [waden-](https://github.com/wadennelson-create/waden-) — Sandbox / in-progress work.
+<!-- GitHub stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wadennelson-create&show_icons=true&theme=radical" alt="Waden's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadennelson-create&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ---
 
-## Tech & Tools
-Python · TensorFlow · PyTorch · TypeScript · Node.js · React · Vite · Docker · Azure · PostgreSQL/MySQL · Jest · GitHub Actions · Hugging Face · Gemini (optional integration)
+## Featured projects (top 6)
+
+I pinned the most representative projects for front-end, back-end, cloud, and tooling. These are the ones I recommend you pin on your GitHub profile:
+
+1. mission-4 — Full-stack "Turners" insurance AI app (React + Vite frontend, Express AI backend)
+   - Repo: https://github.com/wadennelson-create/mission-4
+   - Why: End-to-end demo showing frontend, API, and optional Gemini integration.
+   - How to run (quick):
+     ```bash
+     # from repo root
+     docker compose up --build
+     # then open http://localhost:5173 (frontend) and API at http://localhost:5000
+     ```
+
+2. wades-backend — Backend / APIs for coursework and demos
+   - Repo: https://github.com/wadennelson-create/wades-backend
+   - Why: Shows server-side skills, routing, and tests.
+   - How to run (quick):
+     ```bash
+     cd wades-backend
+     npm install
+     npm start
+     # dev: npm run dev
+     ```
+
+3. weather-app-demo-azure-static-webapps — Cloud front-end demo
+   - Repo: https://github.com/wadennelson-create/weather-app-demo-azure-static-webapps
+   - Why: Demonstrates deploying a frontend on Azure Static Web Apps.
+   - How to run (quick):
+     ```bash
+     # open index.html in the repo or serve with a static server
+     npx serve .
+     ```
+
+4. simple-react-client-azure-mysql — Simple full-stack starter (React + Azure + MySQL)
+   - Repo: https://github.com/wadennelson-create/simple-react-client-azure-mysql
+   - Why: Shows DB integration and cloud-ready client.
+   - How to run (quick):
+     ```bash
+     # frontend (Vite)
+     npm install
+     npm run dev
+     ```
+
+5. mission-ready — Coursework & backend-focused exercises
+   - Repo: https://github.com/wadennelson-create/mission-ready
+   - Why: Demonstrates mission/course work and backend patterns.
+   - How to run: See the repository README for project-specific run instructions.
+
+6. vite-plugin-react-swc — Archived tooling reference
+   - Repo: https://github.com/wadennelson-create/vite-plugin-react-swc
+   - Why: Tooling / plugin reference showing knowledge of build tooling (archived upstream link provided in README).
+
 
 ---
 
-How to use this file
-- Replace any remaining placeholders (profile image, small bios, or missing links) as you like.
-- Pin the top 4–6 repos on your GitHub profile (Customize your pins) to highlight the things you want visitors to see first.
-- If you want fewer repos in the Featured section, keep the ones you want to pin and move the others to a "More projects" section.
+## How to publish and pin
 
-How to publish (locally)
-- git add README.md
-- git commit -m "chore: update profile README with featured repos"
-- git push
-
-Or using gh (if repo already exists):
-- git branch -M main
-- git push -u origin main
+- The profile README is already in this repo (you can view it: https://github.com/wadennelson-create/wadennelson-create/blob/main/README.md).
+- To pin the 6 repos above on your profile: go to your GitHub profile → Customize your pins → Add repositories (choose the ones listed).
+- If you'd like me to automatically add screenshots or GIFs, upload the images to this repo (e.g., /assets/mission-4.png) and I can update the README to include them.
 
 ---
 
-Thanks — this draft lists all your public repos and one-line descriptions pulled from each README. I fetched each repo README to build these descriptions and arranged them to show a balanced skillset (front-end, backend, cloud, tooling, coursework).
+## Next recommended improvements (I can do these for you)
+
+- Add short screenshots / GIFs for mission-4 and weather-app (upload images and I will add them).
+- Add CI / test badges for repos with GitHub Actions (I can add badges if the workflow exists).
+- Add a one-line “How to run” snippet under each pinned project's section (done above for the main ones) and a short demo GIF.
+- Add a LICENSE file to any repo you want to make clearly open source.
+
+If you want me to proceed, say which items to do next (e.g., "add screenshots" and provide the images or URLs, "add CI badges", or "commit these changes"), and I will apply them.
