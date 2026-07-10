@@ -18,6 +18,11 @@ A Node.js and Express backend project with shop management, auction, bank accoun
 
 [View the repository](https://github.com/wadennelson-create/mission-ready-level4)
 
+### Mission 5 Code Whisperers - Wade's Branch
+
+A team Mission 5 project branch focused on Wade's contribution to the Code Whisperers workstream.
+
+[View Wade's branch](https://github.com/MR-2026-FT-Q2-L5ADV/mission-5-phase-2-bug-whispers/tree/wades)
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
