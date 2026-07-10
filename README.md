@@ -2,49 +2,57 @@
   <img src="./profile.png" alt="Wade Nelson" width="220" />
 </p>
 
-# Hi, I'm Wade Nelson
+# Hi 👋 I'm Waden (Wade) Nelson
 
-I'm building practical full-stack development skills with a focus on JavaScript, backend APIs, testing, and clean project delivery.
+I'm a software developer and AI full‑stack student currently studying for a Level 6 Diploma in AI Full Stack Coding. I build practical ML/AI features, web apps, and developer tools with a focus on reliable production-ready systems, testing, and clean docs.
 
-## Current Focus
+- 🔭 I’m currently studying: Level 6 Diploma in AI Full Stack Coding  
+- 🔭 I’m currently working on: coursework and end-to-end demo apps (front-end, back-end, cloud)  
+- 🌱 I’m learning: model deployment, MLOps, TypeScript, testing and CI/CD  
+- 💬 Ask me about: APIs, backend systems, ML model deployment, data pipelines  
+- 📫 How to reach me: [wadennelson@gmail.com](mailto:wadennelson@gmail.com)
 
-- Mission Ready Level 4
-- Building REST APIs with Node.js and Express
-- Writing tests with Jest and Supertest
-- Improving my Git and GitHub workflow
-- Creating projects that are easy to run, review, and extend
+---
 
-## Featured Project
+## Featured projects (all public repos)
 
-### Mission Ready Level 4 Backend
+- [wadennelson-create](https://github.com/wadennelson-create/wadennelson-create) — Personal profile README and hub for featured projects and links.
+- [mission-4](https://github.com/wadennelson-create/mission-4) — Full-stack "Turners" insurance app: React + Vite frontend and Express AI backend (Gemini integration support).
+  - Backend docs: https://github.com/wadennelson-create/mission-4/tree/main/backend
+  - Frontend docs: https://github.com/wadennelson-create/mission-4/tree/main/front%20end
+- [wades-backend](https://github.com/wadennelson-create/wades-backend) — MissionX-style backend / APIs for coursework and demo services.
+- [weather-app-demo-azure-static-webapps](https://github.com/wadennelson-create/weather-app-demo-azure-static-webapps) — Cloud-hosted weather demo (Azure Static Web Apps) — HTML/CSS/JS front-end demo.
+- [simple-react-client-azure-mysql](https://github.com/wadennelson-create/simple-react-client-azure-mysql) — Simple React + Azure + MySQL integration starter (full‑stack demo).
+- [hello-azure-react-simple](https://github.com/wadennelson-create/hello-azure-react-simple) — Minimal React + Vite starter for Azure-hosted front-ends.
+- [mission-ready](https://github.com/wadennelson-create/mission-ready) — Coursework repository for building mission-ready apps (backend focus).
+- [mission1](https://github.com/wadennelson-create/mission1) — Early mission coursework and React/Vite examples (includes "turners cars" demo folders).
+- [turners](https://github.com/wadennelson-create/turners) — Project/repo connected to the Turners insurance exercises.
+- [vite-plugin-react-swc](https://github.com/wadennelson-create/vite-plugin-react-swc) — Archived reference for a Vite React SWC plugin (tooling example / archived).
+- [wade](https://github.com/wadennelson-create/wade) — Small HTML/CSS/JS demo and test pages.
+- [wade.mission-3](https://github.com/wadennelson-create/wade.mission-3) — Mission 3 coursework materials and exercises.
+- [waden-](https://github.com/wadennelson-create/waden-) — Sandbox / in-progress work.
 
-A Node.js and Express backend project with shop management, auction, bank account, and risk rating features. The project includes API routes, validation, tests, and a simple structure for extending backend functionality.
+---
 
-[View the repository](https://github.com/wadennelson-create/mission-ready-level4)
+## Tech & Tools
+Python · TensorFlow · PyTorch · TypeScript · Node.js · React · Vite · Docker · Azure · PostgreSQL/MySQL · Jest · GitHub Actions · Hugging Face · Gemini (optional integration)
 
-### Mission 5 Code Whisperers - Wade's Branch
+---
 
-A team Mission 5 project branch focused on Wade's contribution to the Code Whisperers workstream.
+How to use this file
+- Replace any remaining placeholders (profile image, small bios, or missing links) as you like.
+- Pin the top 4–6 repos on your GitHub profile (Customize your pins) to highlight the things you want visitors to see first.
+- If you want fewer repos in the Featured section, keep the ones you want to pin and move the others to a "More projects" section.
 
-[View Wade's branch](https://github.com/MR-2026-FT-Q2-L5ADV/mission-5-phase-2-bug-whispers/tree/wades)
+How to publish (locally)
+- git add README.md
+- git commit -m "chore: update profile README with featured repos"
+- git push
 
-## Tech Stack
+Or using gh (if repo already exists):
+- git branch -M main
+- git push -u origin main
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+---
 
-## What I'm Working Toward
-
-I'm focused on becoming confident at building, testing, and shipping real web applications. My goal is to keep improving through hands-on projects, clear documentation, and steady practice.
-
-## Connect
-
-- GitHub: [wadennelson-create](https://github.com/wadennelson-create)
-- LinkedIn: add your LinkedIn profile link here
-- Email: add your preferred contact email here
+Thanks — this draft lists all your public repos and one-line descriptions pulled from each README. I fetched each repo README to build these descriptions and arranged them to show a balanced skillset (front-end, backend, cloud, tooling, coursework).
